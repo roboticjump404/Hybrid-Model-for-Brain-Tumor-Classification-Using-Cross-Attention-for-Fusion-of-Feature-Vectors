@@ -21,8 +21,6 @@ Hybrid CNN + Transformer architecture
 
 Cross-Attention based feature fusion
 
-Transfer learning (ImageNet pretrained)
-
 Data augmentation for medical images
 
 Early stopping to prevent overfitting
