@@ -1,6 +1,5 @@
 # Hybrid-Model-for-Brain-Tumor-Classification-Using-Cross-Attention-for-Fusion-of-Feature-Vectors
 
-# Hybrid ResNet-Swin Transformer with Cross-Attention for Brain MRI Classification
 
 A deep learning framework for brain tumor classification from MRI images using a hybrid architecture that combines:
 
