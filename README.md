@@ -28,3 +28,29 @@ Early stopping to prevent overfitting
 Confusion matrix & classification report
 
 Training & validation curves automatically saved
+
+# Training Strategy
+
+Transfer learning using ImageNet pretrained weights
+
+Data augmentation for robustness
+
+Early stopping based on validation performance
+
+Best model checkpoint saving
+
+# Evaluation Metrics
+
+The following metrics are automatically computed:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-score
+
+Confusion matrix
+
+Training and validation curves
