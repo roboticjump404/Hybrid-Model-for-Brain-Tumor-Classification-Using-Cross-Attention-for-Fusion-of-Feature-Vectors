@@ -15,19 +15,6 @@ The model performs multi-class classification (4 tumor categories) and includes 
 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-# Features
-
-Hybrid CNN + Transformer architecture
-
-Cross-Attention based feature fusion
-
-Data augmentation for medical images
-
-Early stopping to prevent overfitting
-
-Confusion matrix & classification report
-
-Training & validation curves automatically saved
 
 # Training Strategy
 
