@@ -11,6 +11,10 @@ Cross-Attention Fusion → adaptive feature integration
 
 The model performs multi-class classification (4 tumor categories) and includes training, evaluation, visualization, and early stopping.
 
+# Dataset 
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 # Features
 
 Hybrid CNN + Transformer architecture
